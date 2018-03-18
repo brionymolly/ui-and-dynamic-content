@@ -1,0 +1,75 @@
+/*CSS*/
+
+/*COLOUR SWATCHES*/
+/*white: #FFFFFF*/
+/*black: #000000*/
+/*red: #FF2400*/
+/*blue: #00368F*/
+/*yellow: #FFAB00*/ 
+/*yellow might actually be orange I honestly don't know as I'm so colourblind.*/
+
+
+/*FONTS*/
+/*
+font-family: 'Nanum Pen Script', cursive;
+font-family: 'Permanent Marker', cursive;
+*/
+
+body {
+    max-width: 45rem;
+    margin: 0 auto;
+}
+
+/*image*/
+img {
+    margin: 0 auto;
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+/*header*/
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    color: #FF2400;
+}
+
+/*form*/
+
+h2 {
+    font-family: 'Nanum Pen Script', cursive;
+   
+}
+
+p {
+    font-family: 'Nanum Pen Script', cursive;
+    
+}
+
+input {
+    font-family: 'Nanum Pen Script', cursive;
+    margin-bottom: 2rem;
+    width: 20rem;
+    text-align: center;
+}
+
+#button {
+    background-color: #FFAB00;
+    color: #ffffff;
+    font-family: 'Nanum Pen Script', cursive;
+    text-align: center;
+}
+
+#button:hover {
+    background-color: #00368F;
+}
+
+/*list*/
+
+ul {
+    padding-left: 2rem;
+}
+
+li {
+    border-bottom: 0.5px solid #FFAB00;
+}
